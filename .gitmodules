@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "pkgcond"]
-	path = pkgcond
-	url = https://github.com/rdoctaskforce/pkgcond
-	shallow = true
-	registered = true
 [submodule "postlogic"]
 	path = postlogic
 	url = https://github.com/rdoctaskforce/postlogic
+	shallow = true
+	registered = true
+[submodule "pkgcond"]
+	path = pkgcond
+	url = https://github.com/rdoctaskforce/pkgcond
 	shallow = true
 	registered = true

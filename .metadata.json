@@ -1,10 +1,10 @@
 [
   {
-    "package": "pkgcond",
+    "package": "postlogic",
     "oncran": true
   },
   {
-    "package": "postlogic",
+    "package": "pkgcond",
     "oncran": true
   }
 ]
